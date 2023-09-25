@@ -1,0 +1,8 @@
+{
+  "name": "ztech-back-end",
+  "version": "1.0.0",
+  "description": "CRM para Ztech",
+  "main": "index.js",
+  "author": "Haidalis Palmar",
+  "license": "MIT"
+}
