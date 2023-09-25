@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CRM para Ztech",
   "main": "index.js",
+  "type": "module",
   "author": "Haidalis Palmar",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
